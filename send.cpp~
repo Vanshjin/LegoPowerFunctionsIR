@@ -1,8 +1,9 @@
-// WiringPi-Api einbinden
+// WiringPi-Api einbinden 
 #include <wiringPi.h>
 
 // C-Standardbibliothek einbinden
 #include <stdio.h>
+#include<conio.h>
 
 int main() {
 
